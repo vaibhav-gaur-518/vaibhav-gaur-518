@@ -62,7 +62,7 @@ let vaibhav = {
 - 🔭 I’m currently working on ... Shell in Java
 - 🌱 I’m currently learning ... Cyber Security
 
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-gaur-518&theme=rose&show_icons=true)
+<!-- ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-gaur-518&theme=rose&show_icons=true) -->
 <!--
 **AboutMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
