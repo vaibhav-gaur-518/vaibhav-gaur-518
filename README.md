@@ -1,5 +1,5 @@
 ### 🌎 Hello World, I'm Vaibhav! 👋
-#### I am a Software Developer 💻👾. I code with.. 
+#### I am a Software Engineer and a cybersecurity enthusiast 💻👾. I code with.. 
 
 
 ![Java](https://img.shields.io/badge/-Java-F14C40?style=for-the-badge&logo=CoffeeScript&logoColor=ffffff)
@@ -44,22 +44,31 @@
 ```java
 import * from @vaibhav-gaur-518
 let vaibhav = {
-  code: [Java, Javascript, Python, C++, Typescript, PostgreSQL, MySQL, HTML, CSS],
-  tools: [Spring Boot, Burp Suite, NMAP, Metasploit, Docker, Git, Postman, AWS, Jira],
+  code: ["Java", "Javascript", "Python", "C++", "Typescript", "PostgreSQL", "MySQL", "HTML", "CSS"],
+  tools: ["Spring Boot", "Hibernate", "JPA", "Kibana", "AWS", "Microsoft Sentinel", "Burp Suite", "NMAP", "Metasploit", "Docker", "Git", "Postman", "Jira"],
   experience: {
-                        GitHub: "Open Source Developer/Freelance",
+                        Freelancer: "Software Developer",
                         Monocept Consulting: "Software Engineer",
                         NITI Aayog Government of India: "Research & Development Intern",
                         CISCO Networking Academy: "Summer Intern"
   },
-  education: "Computer Science Engineering @ Manav Rachna University",
+  certifications: {
+    EC-Council: ["CEH"]
+    Ignite Technologies: ["Web Pentesting Training", "Ethical Hacking Training"]
+    CISCO Networking Academy: ["Introduction to Cyber Security", "Cybersecurity Essentials", "Introduction to Packet Tracer"]
+  },
+  education: {
+    Degree: "Bachelor's of Technology",
+    Major: "Computer Science and Engineering",
+    CGPA: "9.03/10.00"
+  }
 }
 ```
 
 ![](https://komarev.com/ghpvc/?username=vaibhav-gaur-518&color=blueviolet&style=for-the-badge)
 
 
-- 🔭 I’m currently working on ... Shell in Java
+<!-- - 🔭 I’m currently working on ... Shell in Java -->
 - 🌱 I’m currently learning ... Cyber Security
 
 <!-- ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-gaur-518&theme=rose&show_icons=true) -->
