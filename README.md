@@ -69,7 +69,7 @@ let vaibhav = {
 
 
 <!-- - 🔭 I’m currently working on ... Shell in Java -->
-- 🌱 I’m currently learning ... Cyber Security
+- 🌱 I’m currently learning ... Cyber Security, GO
 
 <!-- ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-gaur-518&theme=rose&show_icons=true) -->
 <!--
