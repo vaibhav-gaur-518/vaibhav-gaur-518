@@ -1,7 +1,6 @@
 ### 🌎 Hello World, I'm Vaibhav! 👋
 #### I am a Software Engineer and a cybersecurity enthusiast 💻👾. I code with.. 
 
-
 ![Java](https://img.shields.io/badge/-Java-F14C40?style=for-the-badge&logo=CoffeeScript&logoColor=ffffff)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=ffffff)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -54,9 +53,9 @@ let vaibhav = {
                         CISCO Networking Academy: "Summer Intern"
   },
   certifications: {
-    EC-Council: ["CEH"]
-    Ignite Technologies: ["Web Pentesting Training", "Ethical Hacking Training"]
-    CISCO Networking Academy: ["Introduction to Cyber Security", "Cybersecurity Essentials", "Introduction to Packet Tracer"]
+    EC-Council: ["CEH"],
+    Ignite Technologies: ["Web Pentesting Training", "Ethical Hacking Training"],
+    CISCO Networking Academy: ["Introduction to Cyber Security", "Cybersecurity Essentials", "Introduction to Packet Tracer"],
   },
   education: {
     Degree: "Bachelor's of Technology",
@@ -70,7 +69,8 @@ let vaibhav = {
 
 
 <!-- - 🔭 I’m currently working on ... Shell in Java -->
-- 🌱 I’m currently learning ... Cyber Security, GO
+- 🌱 I’m currently learning ... Go, Cyber Security, Cryptography
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vaibhav-gaur-110772195/)
 
 <!-- ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-gaur-518&theme=rose&show_icons=true) -->
 <!--
