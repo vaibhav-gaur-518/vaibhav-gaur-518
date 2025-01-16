@@ -3,7 +3,7 @@
 
 
 ![Java](https://img.shields.io/badge/-Java-F14C40?style=for-the-badge&logo=CoffeeScript&logoColor=ffffff)
-![GO](https://img.shields.io/badge/-Go-F14C40?style=for-the-badge&logo=CoffeeScript&logoColor=ffffff)
+![GO](https://img.shields.io/badge/-Golang-F14C40?style=for-the-badge&logo=CoffeeScript&logoColor=blue)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JPA](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
